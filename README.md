@@ -39,6 +39,7 @@ A step by step guide to hosting a website on Azure Cloud
 
 	
 	• 'upload' the html files downloaded or web script for any website or free templates online
+	• I downloaded a template from templatemo.com
 	
 ## Step 5
 Copy the weblink (primary endpoint) and test launch
