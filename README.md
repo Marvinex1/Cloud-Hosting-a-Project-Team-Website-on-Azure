@@ -1,4 +1,4 @@
-# Cloud-Hosting-a-DevOps-and-Project-Team-Website-on-Azure
+# Cloud-Hosting-a-Website-on-Azure
 A step by step guide to hosting a website on Azure Cloud
 ## Step 1- Resource group
 	• Create an Azure account
